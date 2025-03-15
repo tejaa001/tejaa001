@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Automatic Attendance Using Face and QR**
 
-- 🌱 I’m currently learning **React.js, .NET, and Python**
+- 🌱 I’m currently learning **React.js, .NET, and C#**
 
 - 🤝 I’m looking for help with **Advanced AI-Powered Projects**
 
