@@ -4,12 +4,11 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding and co
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** JavaScript, Python, Java, C++
+- **Languages:** JavaScript, Java, C++
 - **Web Development:** HTML, CSS, React.
-- **Databases:** MySQL, MongoDB
+- **Databases:** MySQL
 - **Version Control:** Git & GitHub
 - **Cloud:** AWS, Azure
-- **Other Tools:** Docker, Kubernetes, Jenkins
 
 ## 📈 GitHub Stats
 
