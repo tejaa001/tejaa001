@@ -1,47 +1,57 @@
-# Hi there, I'm Tejas! 👋
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 
-Welcome to my GitHub profile! I'm a passionate developer who loves coding and contributing to open-source projects. Here’s a bit about me:
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tejas+Bhalerao!;" />
+</h1>
 
-## 🔧 Technologies & Tools
+<h3 align="center">A passionate Front-End Developer from India</h3>
+<img align="right" alt="Coding" width="460" src="https://raw.githubusercontent.com/ujjwaldethe/ujjwaldethe/f97c2e325ae77615a50fb689eb84593f79407ba7/.github/workflows/coding.gif">
 
-- **Languages:** JavaScript, Java, C++
-- **Web Development:** HTML, CSS, React.
-- **Databases:** MySQL
-- **Version Control:** Git & GitHub
-- **Cloud:** AWS, Azure
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=tejaa001&label=Profile%20views&color=0e75b6&style=flat" alt="tejaa001" />
+</p>
 
-## 📈 GitHub Stats
+<p align="left"> <a href="https://linkedin.com/in/tejas-bhalerao-b21445244/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" alt="tejas_bhalerao" /></a> </p>
 
-![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tejaa001&show_icons=true&theme=radical)
+- 🔭 I’m currently working on **Automatic Attendance Using Face and QR**
 
-## 🔭 What I'm currently working on
+- 🌱 I’m currently learning **React.js, .NET, and Python**
 
-- Building scalable web applications
-- Exploring machine learning and AI
-- Contributing to open-source projects
+- 🤝 I’m looking for help with **Advanced AI-Powered Projects**
 
-## 🌱 What I'm learning
+- 💬 Ask me about **Front-End Development and React.js**
 
-- Advanced React patterns
-- Deep learning techniques
-- Cloud-native application development
+- 📫 How to reach me **tejasbhalerao85@gmail.com**
 
-## 💬 Ask me about
+- 📄 Know about my experiences [Portfolio](https://www.linkedin.com/in/tejas-bhalerao-b21445244/)
 
-- Web development
-- Cloud computing
-- Open-source contributions
+- ⚡ Fun fact **I love turning ideas into interactive digital experiences.**
 
-## 📫 How to reach me
+## 🌐 Socials:
 
-- **Email:** tejaa001@example.com
-- **LinkedIn:** [Tejas's LinkedIn](https://www.linkedin.com/in/tejaa001/)
-- **Twitter:** [@tejaa001](https://twitter.com/tejaa001)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tejasbhalerao85@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejas-bhalerao-b21445244/)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white)](https://github.com/tejaa001)
 
-## ⚡ Fun fact
+## 💻 Languages and Tools:
 
-When I'm not coding, you can find me playing chess or exploring nature!
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="Postman" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+</p>
 
----
-
-⭐️ From [Tejas](https://github.com/tejaa001)
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats-wjz5.vercel.app?user=tejaa001&theme=dark" alt="tejaa001"  />
+  <br/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=tejaa001&show_icons=true&locale=en&theme=dark" alt="tejaa001" />
+  <br/>
+  <img width="390" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaa001&show_icons=true&locale=en&layout=compact&theme=dark" alt="tejaa001" />
+</div>
+<br>
