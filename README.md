@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tejas+Bhalerao!;" />
 </h1>
 
-<h3 align="center">A passionate Front-End Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="460" src="https://raw.githubusercontent.com/ujjwaldethe/ujjwaldethe/f97c2e325ae77615a50fb689eb84593f79407ba7/.github/workflows/coding.gif">
 
 <p align="left">
@@ -15,21 +15,19 @@
 
 - 🔭 I’m currently working on **Automatic Attendance Using Face and QR**
 
-- 🌱 I’m currently learning **React.js, .NET, and C#**
+- 🌱 I’m currently learning **.NET Core, and C#**
 
-- 🤝 I’m looking for help with **Advanced AI-Powered Projects**
+- 💬 Ask me about **Front-End Development and Backend Development**
 
-- 💬 Ask me about **Front-End Development and React.js**
+- 📫 How to reach me **tejasbhaleraodev@gmail.com**
 
-- 📫 How to reach me **tejasbhalerao85@gmail.com**
-
-- 📄 Know about my experiences [Portfolio](https://www.linkedin.com/in/tejas-bhalerao-b21445244/)
+- 📄 Know about my experiences [Portfolio](https://my-port-folio-tzwm.vercel.app/)
 
 - ⚡ Fun fact **I love turning ideas into interactive digital experiences.**
 
 ## 🌐 Socials:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tejasbhalerao85@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tejasbhaleraodev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejas-bhalerao-b21445244/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white)](https://github.com/tejaa001)
 
