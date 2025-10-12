@@ -1,47 +1,76 @@
-# 💫 About Me
-🔭 I’m currently working on building scalable web apps and full-stack projects.  
-👯 I’m looking to collaborate on open-source frontend & backend projects.  
-🤝 I’m looking for help with advanced React patterns and cloud deployment.  
-🌱 I’m currently learning advanced TypeScript, React Query, and microservices.  
-💬 Ask me about web development, system design, and clean code practices.  
-⚡ Fun fact: I love turning complex problems into simple, elegant solutions.  
+# 👋 Hi, I'm Tejas Bhalerao
 
-## 🌐 Socials
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:TEJASBHALERAODEV@GMAIL.COM)
-
-# 💻 Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=TEJAA001&theme=dark&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TEJAA001&theme=dark)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TEJAA001&theme=dark&include_all_commits=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TEJAA001&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I'm a goal-oriented **Full Stack Developer** with expertise in building scalable web applications using **React**, **Node.js**, **Express**, and **MongoDB (MERN Stack)**. I focus on clean, maintainable code, performance optimization, and implementing robust security features like **JWT authentication**. I'm also proficient with **CI/CD pipelines**, **Vercel/Render** deployment, and **Agile** workflows.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TEJAA001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Technical Proficiencies
+
+- **Frontend**: HTML5, CSS3, **Tailwind CSS**, **JavaScript**, **React.js**, **Redux**, React Router  
+- **Backend & APIs**: **Node.js**, **Express.js**, **RESTful APIs**, **JWT**  
+- **Databases**: **MongoDB**, **Mongoose**  
+- **Programming Languages**: **JavaScript**, **TypeScript**  
+- **Tools & Practices**: **Git**, GitHub, **CI/CD pipelines**, Agile/Scrum, **Postman**, **Vercel**, **Render**  
+
+---
+
+## 🧠 Professional Highlights
+
+- ✅ **Optimized Performance**: Built full-stack MERN applications with **30% faster load times**.  
+- 🛠️ **Increased Reusability**: Developed over **10 reusable components**, reducing development time by 20%.  
+- 🔒 **Enhanced Security**: Implemented **role-based access** and **JWT authentication**, reducing unauthorized access by 90%.  
+- 🧪 **Ensured Quality**: Designed **REST APIs** validated with Postman, achieving **98% test coverage**.  
+- 🚀 **Streamlined Deployment**: Deployed applications consistently using **CI/CD pipelines** on Vercel and Render.  
+
+---
+
+## 🚀 Notable Projects
+
+### **CodeQuest (Gamified Learning Platform)**
+- Developed a gamified platform with coding challenges, levels, and XP.  
+- Frontend built with **TypeScript, React (Vite, Tailwind, Radix UI, CodeMirror)**.  
+- Backend powered by **Node.js/Express**, **MongoDB**, **JWT**, and **Swagger APIs**.  
+- Integrated **Google Gemini AI** for auto-generating quizzes and lessons.  
+- **Technologies**: React, Tailwind, CodeMirror, Node.js, Express, MongoDB, JWT, Google Gemini AI  
+
+### **Turf Booking System**
+- Full **MERN stack** turf booking system with JWT-based authentication and CRUD operations.  
+- Achieved **<200ms API responses** after CI/CD deployment on Vercel.  
+- Developed a responsive UI using **React.js and Redux** for smooth booking flow.  
+- Scalable **Mongoose** data models for MongoDB schemas.  
+- **Technologies**: Node.js, Express.js, MongoDB, Mongoose, React.js, Redux, Tailwind CSS, Postman, Vercel  
+
+---
+
+## 🌟 Education & Certifications
+
+- **Bachelor of Computer Application (BCA)**, Sandip University, Nashik (Sept 2022 - May 2025)  
+  - CGPA: **8.6/10.0**  
+
+**Certifications (October 2025)**:  
+- **Citi ICG Technology Software Development Job Simulation**: Improved loan management and risk reporting using UML, ML research, and Java-based tools.  
+- **Walmart USA Advanced Software Engineering Virtual Experience**: Built optimized data structures, UML/ER diagrams, and solved advanced engineering challenges.  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tejaa001&show_icons=true&theme=tokyonight" alt="Tejas's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tejaa001&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaa001&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🔗 Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/tejas-bhalerao)  
+- 💻 [GitHub](https://github.com/tejaa001)  
+- 📧 Email: tejasbhaleraodev@gmail.com  
