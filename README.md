@@ -1,55 +1,47 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
+# 💫 About Me
+🔭 I’m currently working on building scalable web apps and full-stack projects.  
+👯 I’m looking to collaborate on open-source frontend & backend projects.  
+🤝 I’m looking for help with advanced React patterns and cloud deployment.  
+🌱 I’m currently learning advanced TypeScript, React Query, and microservices.  
+💬 Ask me about web development, system design, and clean code practices.  
+⚡ Fun fact: I love turning complex problems into simple, elegant solutions.  
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tejas+Bhalerao!;" />
-</h1>
+## 🌐 Socials
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:TEJASBHALERAODEV@GMAIL.COM)
 
-<h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="right" alt="Coding" width="460" src="https://raw.githubusercontent.com/ujjwaldethe/ujjwaldethe/f97c2e325ae77615a50fb689eb84593f79407ba7/.github/workflows/coding.gif">
+# 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=tejaa001&label=Profile%20views&color=0e75b6&style=flat" alt="tejaa001" />
-</p>
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=TEJAA001&theme=dark&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=TEJAA001&theme=dark)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TEJAA001&theme=dark&include_all_commits=true&layout=compact)
 
-<p align="left"> <a href="https://linkedin.com/in/tejas-bhalerao-b21445244/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" alt="tejas_bhalerao" /></a> </p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-- 🔭 I’m currently working on **Automatic Attendance Using Face and QR**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=TEJAA001&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 🌱 I’m currently learning **.NET Core, and C#**
+---
+[![](https://visitcount.itsvg.in/api?id=TEJAA001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 💬 Ask me about **Front-End Development and Backend Development**
-
-- 📫 How to reach me **tejasbhaleraodev@gmail.com**
-
-- 📄 Know about my experiences [Portfolio](https://my-port-folio-tzwm.vercel.app/)
-
-- ⚡ Fun fact **I love turning ideas into interactive digital experiences.**
-
-## 🌐 Socials:
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tejasbhaleraodev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejas-bhalerao-b21445244/)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white)](https://github.com/tejaa001)
-
-## 💻 Languages and Tools:
-
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="Postman" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-</p>
-
-<div align="center">
-  <img width="390" src="https://github-readme-streak-stats-wjz5.vercel.app?user=tejaa001&theme=dark" alt="tejaa001"  />
-  <br/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=tejaa001&show_icons=true&locale=en&theme=dark" alt="tejaa001" />
-  <br/>
-  <img width="390" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaa001&show_icons=true&locale=en&layout=compact&theme=dark" alt="tejaa001" />
-</div>
-<br>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
