@@ -71,6 +71,6 @@ I'm a goal-oriented **Full Stack Developer** with expertise in building scalable
 
 ## 🔗 Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/tejas-bhalerao)  
+- 🌐 [LinkedIn](www.linkedin.com/in/tejas-bhalerao-b21445244)  
 - 💻 [GitHub](https://github.com/tejaa001)  
 - 📧 Email: tejasbhaleraodev@gmail.com  
